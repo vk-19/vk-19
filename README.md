@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Vineet Kumar
+- 👀 I’m currently pursuing masters in computer science from Department of Computer Science, University of Delhi
